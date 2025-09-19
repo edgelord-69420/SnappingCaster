@@ -1,0 +1,2 @@
+# SnappingCaster
+snapcast

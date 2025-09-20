@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<br lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <input type="text" id="inputField" placeholder="first name"><br></br>
+    <input type="text" id="inputField2" placeholder="last name"><br></br>   
+    <button id="submitButton">Submit</button><br></br>
+    <input type="text" id="inputField1" placeholder="first number"><br></br>
+    <input type="text" id="inputField3" placeholder="last number"><br></br>
+    <button id="submit">Submit</button>
+    <script>
+        document.getElementById('submitButton').addEventListener('click', function() {
+            const firstName = document.getElementById('inputField').value;
+            const lastName = document.getElementById('inputField2').value;
+            const newElement = document.createElement('p');
+            newElement.textContent = `Hello, ${firstName} ${lastName}.`;
+            document.body.appendChild(newElement);
+        });
+              document.getElementById('submit').addEventListener('click', function() {
+            const firstName = document.getElementById('inputField1').value;
+            const lastName = document.getElementById('inputField3').value;
+            const newElement = document.createElement('p');
+            newElement.textContent = 'your number is '+ (parseInt(firstName) + parseInt(lastName));
+            document.body.appendChild(newElement);
+        });
+        </script>
+</body>
+</html>

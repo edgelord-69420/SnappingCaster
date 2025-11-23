@@ -14,9 +14,4 @@ jkfula f ;a dskau dfd
 dkajshkfubs fkdsubf sdkbf dksubfk sjwbe fdksubf djwdsukabdf aksdubf
 ksdaufb kwauk bek dsabfskaw fsk
 jilsnd f;la fjladsnlfinds lfnsinflewn f
-fljsifdn ldsjinfl sdldsijflnsd fliewnlfs flsdinf liwn flsinf linsdlfnflin lisnd lifnlawn
-lsjfi lsdjflsdj fl d
-fdksjhal
-fakhdjkfah
-dsf sadmfjlasdf
-lfdjsali
+fljsifdn ldsjinfl sdldsijflnsd fliewnlfs flsdinf liwn flsinf linsdlfnflin lisnd lifn

@@ -6,6 +6,3 @@ asjofnoa sajlkjfow  dskaoiewn fa aj
 adkjfo ldisanw a
 safjlasifion 
 a dljflajfoi
-jkfdlas;
-asdjff
-fkslajdli fsjdakins flsidan df

@@ -5,3 +5,4 @@ update readme
 
 readme
 race in low effort
+i ams not tha names

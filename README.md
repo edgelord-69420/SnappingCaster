@@ -3,3 +3,4 @@ snapcast
 snap videos and record them for saves
 update readme
 
+readme
